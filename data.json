@@ -1,0 +1,40 @@
+{
+  "basic":
+  {
+    "image":"manu1.png",
+    "name":"name:manoj jeenu",
+    "email":"email:jeenumanu9977@gmail.com",
+    "number":"mobile:9032757371",
+    "address":"pragati engineering college surampallem"
+  },
+  "career":
+  {
+    "info":"To settle in life",
+    "hr":"programming"
+  },
+  "education":
+  [
+    {
+      "institute":"pragati engineering college",
+      "degree":"b.tech",
+      "passout":"2021"
+    },
+    {
+      "institute":"sri praksah junior college",
+      "degree":"inter",
+      "passout":"2017"
+    },
+    {
+      "institute":"sri prakash vidya niketan",
+      "degree":"school",
+      "passout":"2015"
+    }
+  ],
+  "Technicalskills":
+  {
+   "lang1":"c",
+   "lang2":"c++",
+   "lang3":"python",
+   "lang4":"java"
+ }
+}
